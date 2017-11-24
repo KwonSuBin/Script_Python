@@ -1,6 +1,2 @@
-[subin]:[subin],[수빈],[코리아텍]
-[subin2]:[bc3c2aada131a547f7365ad2ebb124fa74a8f490],[subin2],[subin2]
-[a]:[0bdc9d2d256b3ee9daae347be6f4dc835a467ffe],[a],[a]
-[hello]:[dbd32a04286f48676f2308fbcf30cc3202286de7],[pro],[gram]
-[thanks]:[353fa259c0edee32b5a2fa0e2d5206def522f662],[감사],[합니다]
-[wow]:[49c8302d96a5995a8e46b7aa28fdf659e18eea89],[homework],[script]
+[hello]:[dbd32a04286f48676f2308fbcf30cc3202286de7],[good],[g]
+[q]:[564160a673513e5ae080ac1ef31b3e078d662530],[e],[r]

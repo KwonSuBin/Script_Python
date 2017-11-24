@@ -36,7 +36,7 @@
 <meta property="og:image" content="https://static01.nyt.com/images/icons/t_logo_291_black.png" />
 <meta property="fb:app_id" content="9869919170" />
 <meta name="apple-itunes-app" content="app-id=357066198, affiliate-data=at=10lIEQ&ct=Web%20iPad%20Smart%20App%20Banner&pt=13036" />
-<meta name="keywords" content="Russian Interference in 2016 US Elections and Ties to Trump Associates,Special Prosecutors (Independent Counsel),Flynn, Michael T,Mueller, Robert S III,Trump, Donald J,Russian Interference in 2016 US Elections and Ties to Trump Associates,RT (TV Network),Putin, Vladimir V,Trump, Donald J,Moscow (Russia),Corporate Taxes,Labor and Jobs,Wages and Salaries,Hassett, Kevin A,Taxation,Senate,Conservatism (US Politics),Shapiro, Benjamin A (1984- ),The Daily Wire,Millennial Generation,Bannon, Stephen K,Yiannopoulos, Milo,United States Politics and Government,Favreau, Jonathan E (1981- ),Pod Save America (Radio Program),Podcasts,News and News Media,Politics and Government,United States Politics and Government,Midterm Elections (2018),Elections, House of Representatives,Elections, Senate,Democratic Party,Republican Party,House of Representatives,Senate,Obama, Barack,Trump, Donald J,Murders, Attempted Murders and Homicides,Pistorius, Oscar,South Africa,Veganism,Farm Sanctuary,Submarines and Submersibles,Argentina,Maritime Accidents and Safety,United States Navy,Japan,China,Economic Conditions and Trends,Gambling,Banking and Financial Institutions,Immunity from Prosecution,Politics and Government,Zimbabwe African National Union-Patriotic Front (ZANU-PF),Zimbabwe,Mnangagwa, Emmerson,Mugabe, Robert,Mugabe, Grace,Appointments and Executive Changes,Shopping and Retail,E-Commerce,Black Friday and Cyber Monday (Shopping),United States Economy,Black Friday and Cyber Monday (Shopping),Shopping and Retail,Shopping and Retail,Black Friday and Cyber Monday (Shopping),Psychology and Psychologists,Larson, Richard C,Books and Literature,Politics and Government,War Crimes, Genocide and Crimes Against Humanity,Bosnia and Herzegovina,Serbia,Russia,European Union,International Criminal Tribunal for the former Yugoslavia,International Relations,United States International Relations,Milosevic, Slobodan,Mladic, Ratko,Vucic, Aleksandar,Lazarevic, Vladimir,Hotels and Travel Lodgings,Trademarks and Trade Names,Thanksgiving Day,Trump Organization,Trump SoHo (Manhattan, NY, Hotel),CIM Group,Trump, Donald J,James, LeBron,Manhattan (NYC),Hotels and Travel Lodgings,Trump Organization,Trump SoHo (Manhattan, NY, Hotel),CIM Group,Trump, Donald J,United States Politics and Government,Mergers, Acquisitions and Divestitures,Real Estate and Housing (Residential),Demonstrations, Protests and Riots,Evictions,Chan Zuckerberg Initiative LLC,Facebook Inc,Zuckerberg, Mark E,Menlo Park (Calif),Palo Alto (Calif),Coco (Movie),Movies,Unkrich, Lee,Molina, Adrian,Gonzalez, Anthony (2005- ),Pixar Animation Studios,Animated Films,Movies,Call Me by Your Name (Movie),Guadagnino, Luca,Hammer, Armie,Chalamet, Timothee (1995- ),Movies,Darkest Hour (Movie),Wright, Joe,Oldman, Gary,Scott Thomas, Kristin,Mendelsohn, Ben (1969- ),Worms,Eggs,Sperm,Genetics and Heredity,Biology and Biochemistry,Calico (California Life Company),Fires and Firefighters,Holidays and Special Occasions,Thanksgiving Day,Real Estate and Housing (Residential),Fortune Society,Hamilton Heights (Manhattan, NY),Refugees and Displaced Persons,Immigration and Emigration,Australia,Papua New Guinea,Immigration and Emigration,Immigration Detention,Refugees and Displaced Persons,Dutton, Peter C,Manus Island (Papua New Guinea),Australia,Theater,Junk (Play),Akhtar, Ayad,Nineteen Hundred Eighties,Insider Trading,Junk Bonds,Milken, Michael R,Asuncion (Paraguay),Travel and Vacations,Television,She's Gotta Have It (TV Program),Lee, Spike,Nottage, Lynn,Netflix Inc,Wise, DeWanda,Ramos, Anthony (1991- )" />
+<meta name="keywords" content="Russian Interference in 2016 US Elections and Ties to Trump Associates,Special Prosecutors (Independent Counsel),Flynn, Michael T,Mueller, Robert S III,Trump, Donald J,United States Politics and Government,Russia,Putin, Vladimir V,Russian Interference in 2016 US Elections and Ties to Trump Associates,RT (TV Network),Putin, Vladimir V,Trump, Donald J,Moscow (Russia),Rohrabacher, Dana,United States Politics and Government,Russian Interference in 2016 US Elections and Ties to Trump Associates,Presidential Election of 2016,Mueller, Robert S III,Trump, Donald J,Russia,California,House of Representatives,Egypt,Mosques,Terrorism,Sufism (Religion),Murders, Attempted Murders and Homicides,Sinai Peninsula (Egypt),Corporate Taxes,Labor and Jobs,Wages and Salaries,Hassett, Kevin A,Taxation,Senate,Race and Ethnicity,Vallejo (Calif),Discrimination,Minorities,Vallejo (Calif),Discrimination,Blacks,Hispanic-Americans,Asian-Americans,Race and Ethnicity,Diversity,Murders, Attempted Murders and Homicides,Pistorius, Oscar,South Africa,Cheese,Reggio Emilia (Italy),Italy,Appointments and Executive Changes,Mnangagwa, Emmerson,Mugabe, Robert,Zimbabwe,Submarines and Submersibles,Argentina,Books and Literature,Art,Hockney, David,Metropolitan Museum of Art,Shopping and Retail,E-Commerce,Black Friday and Cyber Monday (Shopping),United States Economy,Black Friday and Cyber Monday (Shopping),Shopping and Retail,Shopping and Retail,Black Friday and Cyber Monday (Shopping),Psychology and Psychologists,Larson, Richard C,Favreau, Jonathan E (1981- ),Pod Save America (Radio Program),Podcasts,News and News Media,Politics and Government,Conservatism (US Politics),Shapiro, Benjamin A (1984- ),The Daily Wire,Millennial Generation,Bannon, Stephen K,Yiannopoulos, Milo,United States Politics and Government,Hotels and Travel Lodgings,Trademarks and Trade Names,Thanksgiving Day,Trump Organization,Trump SoHo (Manhattan, NY, Hotel),CIM Group,Trump, Donald J,James, LeBron,Manhattan (NYC),Hotels and Travel Lodgings,Trump Organization,Trump SoHo (Manhattan, NY, Hotel),CIM Group,Trump, Donald J,United States Politics and Government,Mergers, Acquisitions and Divestitures,Politics and Government,War Crimes, Genocide and Crimes Against Humanity,Bosnia and Herzegovina,Serbia,Russia,European Union,International Criminal Tribunal for the former Yugoslavia,International Relations,United States International Relations,Milosevic, Slobodan,Mladic, Ratko,Vucic, Aleksandar,Lazarevic, Vladimir,United States Military Academy,Computers and the Internet,Laptop Computers,Colleges and Universities,Prosecutorial Misconduct,Ex-Convicts,Thanksgiving Day,False Arrests, Convictions and Imprisonments,Supreme Court (US),Griffin, Patrick J,New Haven (Conn),Refugees and Displaced Persons,Immigration and Emigration,Australia,Papua New Guinea,Immigration and Emigration,Immigration Detention,Refugees and Displaced Persons,Dutton, Peter C,Manus Island (Papua New Guinea),Australia,Spacey, Kevin,Weinstein, Harvey,C K, Louis,Actors and Actresses,Movies,Tambor, Jeffrey,Transparent (TV Program),House of Cards (TV Program),Real Estate and Housing (Residential),North Fork (NY),Greenport (Suffolk County, NY),Cricket (Game)" />
 <meta name="video:playerId" content="2640832222001" />
 <meta name="video:publisherId" content="1749339200" />
 <meta name="video:publisherReadToken" content="cE97ArV7TzqBzkmeRVVhJ8O6GWME2iG_bRvjBTlNb4o." />
@@ -1001,6 +1001,9 @@ require(['foundation/main'], function () {
 <li>The move indicates that Mr. Flynn is cooperating with prosecutors or negotiating such a deal.</li>
 </ul></p>
 
+		    <p class="theme-comments">
+    <a href="https://www.nytimes.com/2017/11/23/us/politics/flynn-mueller-russia-trump.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
+</p>
 	
 	</article>
 
@@ -1011,12 +1014,48 @@ require(['foundation/main'], function () {
     
         <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/world/europe/russia-vladimir-putin-liberals.html">Why Putin’s Foes Deplore U.S. Focus on Election Meddling</a></h2>
 
-            <p class="byline">By ANDREW HIGGINS <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="1:39 AM" data-utc-timestamp="1511505565">1:39 AM ET</time></p>
+            <p class="byline">By ANDREW HIGGINS </p>
     
     <p class="summary">“Enough already!” one critic of President Vladimir V. Putin said, worried that the accusations were helping the Kremlin polish the president’s image as a master strategist.</p>
 
+		    <p class="theme-comments">
+    <a href="https://www.nytimes.com/2017/11/23/world/europe/russia-vladimir-putin-liberals.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
+</p>
 	
 	</article>
+</div>
+<div class="collection headlines">
+            <ul class="theme-news-headlines">
+                    <li>
+            <div style="margin-top: -9px;"></div>            </li>
+                    <li>
+            <article class="story" id="topnews-100000005563319" data-story-id="100000005563319" data-rank="1" data-collection-renderstyle="HpHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/21/us/politics/dana-rohrabacher-putin-trump-kremlin-under-fire.html">He’s a Member of Congress. The Kremlin Likes Him So Much It Gave Him a Code Name.</a> </h2>
+</article>
+            </li>
+            </ul>
+</div>
+<div class="collection">
+    <div class="hpHeader hpDeveloping hpSingleRule">
+	<h6>Developing</h6>
+</div>
+            <article class="story theme-summary" id="topnews-100000005569617" data-story-id="100000005569617" data-rank="0" data-collection-renderstyle="HpSumMediumMedia" data-start-time="" data-end-time="">
+        
+                <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/24/world/middleeast/mosque-attack-egypt.html">At Least 155 People Killed in Mosque Bombing in Egypt</a></h2>
+
+                    <p class="byline">By DECLAN WALSH <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="8:59 AM" data-utc-timestamp="1511531969">8:59 AM ET</time></p>
+        
+        <p class="summary">
+            Islamist militants set off a bomb at a Sufi mosque in the Sinai Peninsula during Friday Prayer, then sprayed gunfire at worshipers as they fled.        </p>
+
+        
+        
+                    <figure class="media photo medium-thumb">
+    <div class="image">
+        <a href="https://www.nytimes.com/2017/11/24/world/middleeast/mosque-attack-egypt.html"><img src="https://static01.nyt.com/images/2017/11/25/world/25egypt/24egypt-mediumFlexible177.jpg" alt="" /></a>
+    </div>
+</figure>
+            </article>
 </div>
 <hr class="single-rule" /><div class="collection">
             <article class="story theme-summary" id="topnews-100000005565520" data-story-id="100000005565520" data-rank="0" data-collection-renderstyle="HpSum" data-start-time="" data-end-time="">
@@ -1027,6 +1066,9 @@ require(['foundation/main'], function () {
     
     <p class="summary">An administration analysis claims that the G.O.P.’s proposed corporate tax cut would translate into an extra $4,000 in take-home pay for workers.</p>
 
+		    <p class="theme-comments">
+    <a href="https://www.nytimes.com/2017/11/23/us/politics/corporate-tax-cut-pay.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
+</p>
 	
 	</article>
 </div>
@@ -1042,65 +1084,53 @@ require(['foundation/main'], function () {
             </ul>
 </div>
 <hr class="single-rule" /><div class="collection">
-            <article class="story theme-summary" id="topnews-100000005566629" data-story-id="100000005566629" data-rank="0" data-collection-renderstyle="HpSum" data-start-time="" data-end-time="">
-    
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/us/ben-shapiro-conservative.html">A ‘Gladiator’ Battles for the Minds of Young Conservatives</a></h2>
+                <article class="story theme-summary" id="topnews-100000005548832" data-story-id="100000005548832" data-rank="0" data-collection-renderstyle="HpSumMediumMedia" data-start-time="" data-end-time="">
+        
+                <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/24/us/does-race-matter-in-americas-most-diverse-zip-codes.html">Does Race Matter in America’s Most Diverse ZIP Codes?</a></h2>
 
-            <p class="byline">By SABRINA TAVERNISE </p>
-    
-    <p class="summary">If Rush Limbaugh is someone your father listens to on his car radio, Ben Shapiro, 33, a graduate of Harvard Law School, is the cool kid’s philosopher.</p>
+                    <p class="byline">By JOHN ELIGON </p>
+        
+        <p class="summary">
+            Vallejo, Calif., is the rare city where no one ethnic group predominates. But stubborn disparities endure.        </p>
 
-	
-	</article>
+        
+        
+                    <figure class="media photo medium-thumb">
+    <div class="image">
+        <a href="https://www.nytimes.com/2017/11/24/us/does-race-matter-in-americas-most-diverse-zip-codes.html"><img src="https://static01.nyt.com/images/2017/11/24/us/24vallejo3/00vallejo-01-mediumFlexible177.jpg" alt="" /></a>
+    </div>
+</figure>
+            </article>
 </div>
-<div class="collection">
-            <hr class="single-rule" style="width: 50%; text-align: center; margin: 12px auto 0;" />
-
- </div>
-<div class="collection">
-            <article class="story theme-summary" id="topnews-100000005558736" data-story-id="100000005558736" data-rank="0" data-collection-renderstyle="HpSum" data-start-time="" data-end-time="">
-    
-            <h3 class="kicker">From the Magazine </h3>
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/magazine/the-voices-in-blue-americas-head.html">The Voices in Blue America’s Head</a></h2>
-
-            <p class="byline">By JASON ZENGERLE </p>
-    
-    <p class="summary">For years, liberals have tried, and failed, to create their own version of conservative talk radio. Has Crooked Media finally figured it out?</p>
-
-		    <p class="theme-comments">
-    <a href="https://www.nytimes.com/2017/11/22/magazine/the-voices-in-blue-americas-head.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
-</p>
-	
-	</article>
+<div class="collection headlines">
+            <ul class="theme-news-headlines">
+                    <li>
+            <div style="margin-top: -9px;"></div>            </li>
+                    <li>
+            <article class="story" id="topnews-100000005559566" data-story-id="100000005559566" data-rank="1" data-collection-renderstyle="HpBlogHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/24/us/insider-vallejo-diverse.html">‘Nothing Against You’: For a Black Man Covering Race, the Story Is Never Far From Home</a></h2>
+</article>
+            </li>
+            </ul>
 </div>
 <hr class="single-rule" /><div class="collection">
-            <article class="story theme-summary" id="topnews-100000005567329" data-story-id="100000005567329" data-rank="0" data-collection-renderstyle="HpSum" data-start-time="" data-end-time="">
+            <article class="story theme-summary" id="topnews-100000005569421" data-story-id="100000005569421" data-rank="0" data-collection-renderstyle="HpSumSmallMedia">
     
-            <h3 class="kicker">On Washington </h3>
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/us/politics/democrats-republicans-washington.html">Parties Hear Echoes of 2009, Before the Majority Flipped</a></h2>
-
-            <p class="byline">By CARL HULSE </p>
     
-    <p class="summary">Elements that foreshadowed steep losses for Democrats eight years ago are in place for Republicans today, our columnist writes.</p>
+    <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/24/world/africa/oscar-pistorius-sentence.html">Oscar Pistorius’s Murder Sentence Is More Than Doubled</a></h2>
 
-	
-	</article>
-</div>
-<div class="collection">
-    <div class="hpHeader hpLive hpSingleRule">
-	<h6>Breaking News</h6>
-</div>
-
-        <article class="story theme-summary" id="topnews-100000005569421" data-story-id="100000005569421" data-rank="0" data-collection-renderstyle="HpSum" data-start-time="" data-end-time="">
+            <p class="byline">By ALAN COWELL <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="7:40 AM" data-utc-timestamp="1511527252">7:40 AM ET</time></p>
     
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/24/world/africa/oscar-pistorius-sentence.html">Oscar Pistorius’s Murder Sentence Is More Than Doubled</a></h2>
-
-            <p class="byline">By ALAN COWELL <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="3:40 AM" data-utc-timestamp="1511512840">3:40 AM ET</time></p>
+            <div class="thumb">
+            <a href="https://www.nytimes.com/2017/11/24/world/africa/oscar-pistorius-sentence.html"><img src="https://static01.nyt.com/images/2017/11/25/world/25pistorius-1/25pistorius-1-thumbStandard.jpg" alt=""></a>
+        </div>
     
-    <p class="summary">South African prosecutors had said the six-year sentence that the double-amputee sprinter received for killing his girlfriend in 2013 was “shockingly lenient.”</p>
+    <p class="summary">
+        South African prosecutors had said the six-year sentence that the sprinter received for killing his girlfriend in 2013 was “shockingly lenient.”    </p>
 
-	
-	</article>
+    
+    </article>
+
 </div>
 <hr class="single-rule" /><div class="collection">
             <div class="hpHeader">
@@ -1108,8 +1138,8 @@ require(['foundation/main'], function () {
 </div>
 
 <figure class="story theme-feature video media video-promo-small video-promo-small-360 updated-video-promo-small">
-    <a href="https://www.nytimes.com/video/us/100000005561449/thanksgiving-turkey-rescue-farm-sanctuary.html">
-    <div class="video-promo-small-container" style="background-image: url('https://static01.nyt.com/images/2017/11/24/multimedia/360-turkeydinner/360-turkeydinner-filmstrip.jpg');">
+    <a href="https://www.nytimes.com/video/world/europe/100000005511448/where-its-made-parmesan-cheese.html">
+    <div class="video-promo-small-container" style="background-image: url('https://static01.nyt.com/images/2017/11/22/world/360-parmesan-still/360-parmesan-still-filmstrip-v2.jpg');">
         <div class="metadata">
             <div class="play-button-and-duration">
                 <div class="play-icon">
@@ -1121,11 +1151,11 @@ require(['foundation/main'], function () {
                             </svg>
                                                             </div>
                 <div class="duration">
-                                    <span>1:21</span>
+                                    <span>1:52</span>
                                 </div>
             </div>
             <h2 class="story-heading">
-                                    A Thanksgiving for the Turkeys                            </h2>
+                                    Where It’s Made: Parmesan Cheese                            </h2>
                         <div class="orientation-icon">
                 <svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink">
                     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -1147,7 +1177,7 @@ require(['foundation/main'], function () {
     </div>
 </a>
             <figcaption class="caption">
-            <p class="credit">Kevin Hagen for the New York Times. Technology by Samsung.</p>
+            <p class="credit">Guglielmo Mattioli/The New York Times. Technology by Samsung.</p>
         </figcaption>
         <a href="/video/the-daily-360" class="more-in-playlist">
         <div>
@@ -1161,23 +1191,13 @@ require(['foundation/main'], function () {
                 <h3 class="kicker collection-kicker">More News</h3>
         <ul class="theme-news-headlines">
                     <li>
-            <article class="story" id="topnews-100000005568610" data-story-id="100000005568610" data-rank="0" data-collection-renderstyle="HpBlogHeadline">
+            <article class="story" id="topnews-100000005569488" data-story-id="100000005569488" data-rank="0" data-collection-renderstyle="HpBlogHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/24/world/africa/emmerson-mnangagwa-zimbabwe.html">Emmerson Mnangagwa Is Sworn In as Zimbabwe’s Leader</a></h2>
+</article>
+            </li>
+                    <li>
+            <article class="story" id="topnews-100000005568610" data-story-id="100000005568610" data-rank="1" data-collection-renderstyle="HpBlogHeadline">
         <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/world/americas/argentina-submarine-explosion.html">Argentine Submarine Crew’s Families Turn to Grief and Anger</a></h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005568296" data-story-id="100000005568296" data-rank="1" data-collection-renderstyle="HpBlogHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/world/asia/search-navy-crash-missing-japan.html">U.S. Navy Ends Search for 3 Sailors Missing Since Plane Crash Near Japan</a></h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005568216" data-story-id="100000005568216" data-rank="2" data-collection-renderstyle="HpBlogHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/business/china-underground-bank-3-billion.html">China Busts a $3 Billion Underground Bank as It Tightens Its Grip on Money</a></h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005568538" data-story-id="100000005568538" data-rank="3" data-collection-renderstyle="HpBlogHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/world/africa/zimbabwe-mugabe-mnangagwa.html">Mugabe Will Remain in Zimbabwe, Spokesman Says</a></h2>
 </article>
             </li>
             </ul>
@@ -1270,7 +1290,7 @@ THIS IS A GENERATED TEMPLATE FILE. DO NOT EDIT.
                                             <div class="photo-spot-region region">
 
                             <div class="collection">
-            <script>function getFlexData() { return {"data":{"options":{"width":375,"height":260,"jsonp":"https:\/\/static01.nyt.com\/slideshow\/2017\/11\/23\/nyregion\/the-macys-thanksgiving-parade.slideshow.jsonp","link":""},"photos":{"photo":{"url":"","credit":""}},"advanced":{"delay":4,"limitjsonp":0,"rendition":"largeHorizontal375","targetoverride":"","abbreviatecredits":false}}}; }var NYTD=NYTD || {}; NYTD.FlexTypes = NYTD.FlexTypes || []; NYTD.FlexTypes.push({"target":"FT100000005568981","type":"FadingSlideShow","data":{"options":{"width":375,"height":260,"jsonp":"https:\/\/static01.nyt.com\/slideshow\/2017\/11\/23\/nyregion\/the-macys-thanksgiving-parade.slideshow.jsonp","link":""},"photos":{"photo":{"url":"","credit":""}},"advanced":{"delay":4,"limitjsonp":0,"rendition":"largeHorizontal375","targetoverride":"","abbreviatecredits":false}}});</script><script src="https://static01.nyt.com/packages/js/multimedia/libs/jquery-1.7.1.min.js"></script><script src="https://static01.nyt.com/packages/js/multimedia/bundles/projects/2013/FadingSlideShow2.js"></script>
+            <script>function getFlexData() { return {"data":{"options":{"width":375,"height":375,"jsonp":"https:\/\/static01.nyt.com\/slideshow\/2017\/11\/23\/business\/trade-frictions-are-keenly-felt-by-two-texas-bridge-owners.slideshow.jsonp","link":""},"photos":{"photo":{"url":"","credit":""}},"advanced":{"delay":4,"limitjsonp":0,"rendition":"largeHorizontal375","targetoverride":"","abbreviatecredits":false}}}; }var NYTD=NYTD || {}; NYTD.FlexTypes = NYTD.FlexTypes || []; NYTD.FlexTypes.push({"target":"FT100000005569554","type":"FadingSlideShow","data":{"options":{"width":375,"height":375,"jsonp":"https:\/\/static01.nyt.com\/slideshow\/2017\/11\/23\/business\/trade-frictions-are-keenly-felt-by-two-texas-bridge-owners.slideshow.jsonp","link":""},"photos":{"photo":{"url":"","credit":""}},"advanced":{"delay":4,"limitjsonp":0,"rendition":"largeHorizontal375","targetoverride":"","abbreviatecredits":false}}});</script><script src="https://static01.nyt.com/packages/js/multimedia/libs/jquery-1.7.1.min.js"></script><script src="https://static01.nyt.com/packages/js/multimedia/bundles/projects/2013/FadingSlideShow2.js"></script>
 <style type="text/css">
 .edition-domestic .span-ab-layout .nytmm_FadingSlideShow .credit, .edition-international .span-ab-layout .nytmm_FadingSlideShow .credit { 
 color: #BAB8B3;
@@ -1280,48 +1300,22 @@ font-size: 0.5625rem !important;
 font-weight: 400;
 line-height: 0.75rem;
 }
-</style><div id="FT100000005568981"></div></div>
+</style><div id="FT100000005569554"></div></div>
 <div class="collection">
-            <article class="story theme-feature" id="topnews-100000005569178" data-story-id="100000005569178" data-rank="0" data-collection-renderstyle="LargeMediaHeadlineSumCentered">
+            <div style="margin-top: 20px;"></div></div>
+<div class="collection">
+            <article class="story theme-feature" id="topnews-100000005569522" data-story-id="100000005569522" data-rank="0" data-collection-renderstyle="LargeMediaHeadlineSumCentered">
     
     
     
-    <h1 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/nyregion/macys-thanksgiving-day-parade.html">Where Joy Is in the Air.<br/>(Alongside Floating Leviathans.)</a></h1>
+    <h1 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/business/economy/texas-border-bridges.html">Nafta Talks Have High Stakes for Two Texas Bridge Owners</a></h1>
 
-    <p class="summary">The 91st edition of the Macy’s Thanksgiving Day Parade was again thronged by children and marching bands, and lorded over by 48 crowd-thrilling creatures.</p>
+    <p class="summary">Private crossings to Mexico are a rich franchise under the North American Free Trade Agreement, but discussions on reopening the accord have put that bonanza at risk.</p>
 
-            <p class="byline">By VINCENT TULLO </p>
+            <p class="byline">By NATALIE KITROEFF </p>
     
     
     </article>
-</div>
-<div class="collection">
-            <hr class="single-rule" style="width: 50%; text-align: center; margin: 12px auto 0;" />
-
- <div style="margin-bottom: 15px;"></div><article class="story theme-summary" id="topnews-100000005562687" data-story-id="100000005562687" data-rank="2" data-collection-renderstyle="HpSum" data-start-time="" data-end-time="">
-    
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/business/black-friday-thanksgiving-shopping.html">Black Friday Updates: Hunting Bargains in the Night</a></h2>
-
-            <p class="byline">By THE NEW YORK TIMES </p>
-    
-    <p class="summary">As the holiday shopping season begins in earnest, we’re capturing what the deal-seeking rush looks like this year.</p>
-
-	
-	</article>
-</div>
-<div class="collection headlines">
-            <ul class="theme-news-headlines">
-                    <li>
-            <article class="story" id="topnews-100000005550325" data-story-id="100000005550325" data-rank="0" data-collection-renderstyle="HpBlogHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/15/smarter-living/black-friday-cyber-monday-shopping.html">How to Shop Smart on Black Friday (and Cyber Monday)</a></h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005556621" data-story-id="100000005556621" data-rank="1" data-collection-renderstyle="HpBlogHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/business/black-friday-long-lines.html">Why Stand in Line on Black Friday? The Psychology Explained</a></h2>
-</article>
-            </li>
-            </ul>
 </div>
 
                         </div><!-- close photo-spot-region -->
@@ -1343,16 +1337,23 @@ line-height: 0.75rem;
         
         <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/24/briefing/michael-flynn-argentina-myanmar.html">Your Friday Briefing</a></h2>
 
-                    <p class="byline">By JENNIFER JETT <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="12:33 AM" data-utc-timestamp="1511501599">12:33 AM ET</time></p>
+                    <p class="byline">By JENNIFER JETT </p>
         
         <p class="summary">
             Here’s what you need to know to start your day.        </p>
 
         
-        
+            <ul class="refer theme-news-headlines">
+            <li>
+            <article class="story" id="topnews-100000005541318">
+                <h2 class="refer-heading"><a href="https://www.nytimes.com/2017/11/24/nyregion/new-york-today-christmas-tree-shopping-tips.html">New York Today: Finding the Perfect Tree</a> <time class="timestamp" data-eastern-timestamp="6:00 AM" datetime="2017-11-24" data-utc-timestamp="1511521213000">6:00 AM</time></h2>
+            </article>
+        </li>
+        </ul>
+
     </article>
 </div>
-<div class="collection">
+<hr class="single-rule" /><div class="collection">
             <div class="hpHeader">
 	<h6><a href="http://www.nytimes.com/spotlight/times-tips?contentCollection=smarter-living">Smarter Living</a></h6>
 </div><div class="nythpSmarterLiving smarterLiving-promo-region region">
@@ -1781,46 +1782,107 @@ h2.gg-promo-heading{
 
 </script></div>
 <div class="collection">
-            <article class="story theme-feature" id="topnews-100000005568471" data-story-id="100000005568471" data-rank="0" data-collection-renderstyle="LargeMediaHeadlineSumCentered">
+            <article class="story theme-feature" id="topnews-100000005556594" data-story-id="100000005556594" data-rank="0" data-collection-renderstyle="LargeMediaHeadlineSumCentered">
     
     
     <figure class="media photo">
     <div class="image">
-        <a href="https://www.nytimes.com/2017/11/22/books/review/100-notable-books-2017.html"><img src="https://static01.nyt.com/images/2017/12/03/books/review/03Notables-01/03Notables-01-largeHorizontal375-v2.jpg" alt=""></a>
+        <a href="https://www.nytimes.com/2017/11/23/arts/design/david-hockney-art-review-metropolitan-museum-of-art.html"><img src="https://static01.nyt.com/images/2017/11/24/arts/24hockney1/24hockney1-largeHorizontal375.jpg" alt=""></a>
     </div>
     <figcaption class="caption" itemprop="description">
-                    <span class="caption-text"></span>
+                    <span class="caption-text">David Hockney&rsquo;s &ldquo;A Bigger Interior With Blue Terrace and Garden,&rdquo; from 2017.</span>
         
         	        <span class="credit" itemprop="copyrightHolder">
 	            <span class="visually-hidden">Credit</span>
-	            Olimpia Zagnoli	        </span>
+	            Metropolitan Museum of Art	        </span>
             </figcaption>
 </figure>
 
-    <h1 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/books/review/100-notable-books-2017.html">100 Notable Books of 2017</a></h1>
+    <h1 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/arts/design/david-hockney-art-review-metropolitan-museum-of-art.html">Art Review: David Hockney’s Life in Painting Is Spare, Exuberant and Full</a></h1>
 
-    <p class="summary">The year’s notable fiction, poetry and nonfiction, selected by the editors of The New York Times Book Review.</p>
+    <p class="summary">An artistic journey through six decades of painting sums up his achievements — and leaves you wanting more.</p>
 
+            <p class="byline">By ROBERTA SMITH </p>
     
+            <p class="theme-comments">
+    <a href="https://www.nytimes.com/2017/11/23/arts/design/david-hockney-art-review-metropolitan-museum-of-art.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
+</p>
+    
+        <ul class="refer theme-news-headlines">
+            <li>
+            <article class="story" id="topnews-100000005556594">
+                <h2 class="refer-heading"><a href="https://www.nytimes.com/2016/11/22/arts/design/art-for-the-holidays-a-new-york-visitors-guide.html">Art for the Holidays: A New York Visitors’ Guide</a></h2>
+            </article>
+        </li>
+        </ul>
+</article>
+</div>
+<hr class="single-rule" /><div class="collection">
+            <article class="story theme-summary" id="topnews-100000005562687" data-story-id="100000005562687" data-rank="0" data-collection-renderstyle="HpSumSmallMediaHigh">
+    
+        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/business/black-friday-thanksgiving-shopping.html">Black Friday Updates: Hunting Bargains in the Night</a></h2>
+
+            <div class="thumb">
+            <a href="https://www.nytimes.com/2017/11/23/business/black-friday-thanksgiving-shopping.html"><img src="https://static01.nyt.com/images/2017/11/24/business/24shopbriefing5/merlin_130463178_ae5d452d-f860-4701-915d-cd8145bf3b9d-thumbStandard.jpg" alt=""></a>
+        </div>
+    
+            <p class="byline">By THE NEW YORK TIMES </p>
+    
+    <p class="summary">
+        As the holiday shopping season begins in earnest, we’re capturing what the deal-seeking rush looks like this year.    </p>
+
     
     </article>
 </div>
+<div class="collection headlines">
+            <ul class="theme-news-headlines">
+                    <li>
+            <div style="margin-top: -9px;"></div>            </li>
+                    <li>
+            <article class="story" id="topnews-100000005550325" data-story-id="100000005550325" data-rank="1" data-collection-renderstyle="HpBlogHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/15/smarter-living/black-friday-cyber-monday-shopping.html">How to Shop Wisely Today (and on Monday)</a></h2>
+</article>
+            </li>
+                    <li>
+            <article class="story" id="topnews-100000005556621" data-story-id="100000005556621" data-rank="2" data-collection-renderstyle="HpBlogHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/business/black-friday-long-lines.html">Why Stand in Line on Black Friday? The Psychology Explained</a></h2>
+</article>
+            </li>
+            </ul>
+</div>
 <hr class="single-rule" /><div class="collection">
-            <article class="story theme-summary" id="topnews-100000005568668" data-story-id="100000005568668" data-rank="0" data-collection-renderstyle="HpSumSmallMediaHigh">
+            <div class="hpHeader">
+  <h6><a href="https://www.nytimes.com/section/magazine">From the Magazine</a></h6>
+</div>
+<article class="story theme-summary" id="topnews-100000005558736" data-story-id="100000005558736" data-rank="1" data-collection-renderstyle="HpSumSmallMediaHigh">
     
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/world/europe/serbia-war-crimes-russia.html">Serbia’s Reconciliation: Embracing Old War Criminals</a></h2>
+        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/magazine/the-voices-in-blue-americas-head.html">The Voices in Blue America’s Head</a></h2>
 
             <div class="thumb">
-            <a href="https://www.nytimes.com/2017/11/23/world/europe/serbia-war-crimes-russia.html"><img src="https://static01.nyt.com/images/2017/11/24/world/24serbia/24serbia-thumbStandard.jpg" alt=""></a>
+            <a href="https://www.nytimes.com/2017/11/22/magazine/the-voices-in-blue-americas-head.html"><img src="https://static01.nyt.com/images/2017/11/26/magazine/26mag-media-image1/26mag-media-image1-thumbStandard.jpg" alt=""></a>
         </div>
     
-            <p class="byline">By MATTHEW BRUNWASSER </p>
+            <p class="byline">By JASON ZENGERLE </p>
     
     <p class="summary">
-        Despite the conviction of Gen. Ratko Mladic for war crimes, Serbia’s collective memory of its role in the Yugoslav civil wars is more forgiving.    </p>
+        For years, liberals have tried, and failed, to create their own version of conservative talk radio. Has Crooked Media finally figured it out?    </p>
 
+            <p class="theme-comments">
+    <a href="https://www.nytimes.com/2017/11/22/magazine/the-voices-in-blue-americas-head.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
+</p>
     
     </article>
+</div>
+<div class="collection headlines">
+            <ul class="theme-news-headlines">
+                    <li>
+            <div style="margin-top: -9px;"></div>            </li>
+                    <li>
+            <article class="story" id="topnews-100000005566629" data-story-id="100000005566629" data-rank="1" data-collection-renderstyle="HpBlogHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/us/ben-shapiro-conservative.html">A ‘Gladiator’ Battles for the Minds of Young Conservatives</a></h2>
+</article>
+            </li>
+            </ul>
 </div>
 <hr class="single-rule" /><div class="collection">
                 <article class="story theme-summary" id="topnews-100000005568605" data-story-id="100000005568605" data-rank="0" data-collection-renderstyle="HpSumMediumMediaFloated" data-start-time="" data-end-time="">
@@ -1833,7 +1895,7 @@ h2.gg-promo-heading{
     </div>
 </figure>
         
-                    <p class="byline">By SARAH MASLIN NIR <time class="timestamp" datetime="2017-11-23" data-eastern-timestamp="11:50 PM" data-utc-timestamp="1511499043">11:50 PM ET</time></p>
+                    <p class="byline">By SARAH MASLIN NIR </p>
         
         <p class="summary">
             At the hotel, which has struggled financially and will soon excise the Trump name, some guests loved the brand, while others were there for the discounted rooms.        </p>
@@ -1853,79 +1915,51 @@ h2.gg-promo-heading{
             </ul>
 </div>
 <hr class="single-rule" /><div class="collection">
-            <article class="story theme-summary" id="topnews-100000005556674" data-story-id="100000005556674" data-rank="0" data-collection-renderstyle="HpSumSmallMediaHigh">
+            <article class="story theme-summary" id="topnews-100000005568668" data-story-id="100000005568668" data-rank="0" data-collection-renderstyle="HpSumSmallMediaHigh">
     
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/technology/mark-zuckerberg-housing.html">Facebook Founder’s Favor Comes With Complications</a></h2>
+        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/world/europe/serbia-war-crimes-russia.html">Serbia’s Reconciliation: Embracing Old War Criminals</a></h2>
 
             <div class="thumb">
-            <a href="https://www.nytimes.com/2017/11/23/technology/mark-zuckerberg-housing.html"><img src="https://static01.nyt.com/images/2017/11/24/business/24ZUCK1/24ZUCK1-thumbStandard.jpg" alt=""></a>
+            <a href="https://www.nytimes.com/2017/11/23/world/europe/serbia-war-crimes-russia.html"><img src="https://static01.nyt.com/images/2017/11/24/world/24serbia/24serbia-thumbStandard.jpg" alt=""></a>
         </div>
     
-            <p class="byline">By NELLIE BOWLES </p>
+            <p class="byline">By MATTHEW BRUNWASSER <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="7:36 AM" data-utc-timestamp="1511526961">7:36 AM ET</time></p>
     
     <p class="summary">
-        Wherever Mark Zuckerberg goes in Silicon Valley, he seems to generate a housing problem, including at an R.V. community where residents were evicted this month.    </p>
+        Despite the conviction of Gen. Ratko Mladic for war crimes, Serbia’s collective memory of its role in the Yugoslav civil wars is more forgiving.    </p>
 
     
     </article>
 </div>
 <hr class="single-rule" /><div class="collection">
-            <div class="hpHeader">
-	<h6>Movie Reviews
-</a></h6>
-</div>
-
-
-    <article class="story theme-summary" id="topnews-100000005550645" data-story-id="100000005550645" data-rank="1" data-collection-renderstyle="HpSumMediumMediaFloated" data-start-time="" data-end-time="">
-        
-                <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/21/movies/coco-review-pixar-disney.html">‘Coco’ Brings the Pixar Touch to Death</a></h2>
-
-                    <figure class="media photo medium-thumb">
+            <article class="story theme-feature promo" id="topnews-100000005568471" data-story-id="100000005568471" data-rank="0" data-collection-renderstyle="HpHedSumMediumMediaFeature">
+    
+            <figure class="media photo medium-thumb">
     <div class="image">
-        <a href="https://www.nytimes.com/2017/11/21/movies/coco-review-pixar-disney.html"><img src="https://static01.nyt.com/images/2017/11/22/arts/22cocojp/merlin_129467759_89d311a3-0681-4883-bd6d-b8ebc3759ea5-mediumFlexible177.jpg" alt="" /></a>
+        <a href="https://www.nytimes.com/2017/11/22/books/review/100-notable-books-2017.html"><img src="https://static01.nyt.com/images/2017/12/03/books/review/03Notables-01/03Notables-01-thumbWide-v2.jpg" alt="" /></a>
     </div>
 </figure>
-        
-                    <p class="byline">By A.O. SCOTT </p>
-        
-        <p class="summary">
-            The movie delivers moments of cinematic rigor and playful pop-culture erudition. And though it deals with the afterlife, don’t let that scare you.        </p>
+    
+    <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/books/review/100-notable-books-2017.html">100 Notable Books of 2017</a></h2>
 
-                    <p class="theme-comments">
-    <a href="https://www.nytimes.com/2017/11/21/movies/coco-review-pixar-disney.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
-</p>
-        
-            </article>
-</div>
-<div class="collection headlines">
-            <ul class="theme-news-headlines">
-                    <li>
-            <div style="margin-top: -9px;"></div>            </li>
-                    <li>
-            <article class="story" id="topnews-100000005550696" data-story-id="100000005550696" data-rank="1" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/22/movies/call-me-by-your-name-review-armie-hammer.html">A Boy’s Own Desire in ‘Call Me by Your Name’</a> </h2>
+    <p class="summary">
+        The year’s notable fiction, poetry and nonfiction, selected by the editors of The New York Times Book Review.    </p>
+
 </article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005550650" data-story-id="100000005550650" data-rank="2" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/21/movies/darkest-hour-review-gary-oldman.html">‘Darkest Hour,’ or the Great Man Theory of History (and Acting)</a> </h2>
-</article>
-            </li>
-            </ul>
 </div>
 <hr class="single-rule" /><div class="collection">
-            <article class="story theme-summary" id="topnews-100000005563247" data-story-id="100000005563247" data-rank="0" data-collection-renderstyle="HpSumSmallMediaHigh">
+            <article class="story theme-summary" id="topnews-100000005562662" data-story-id="100000005562662" data-rank="0" data-collection-renderstyle="HpSumSmallMediaHigh">
     
-        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/science/youth-cells-aging-worms.html">Young Again: How One Cell Turns Back Time</a></h2>
+        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html">Laptops Are Great. But Not During a Lecture or Meeting.</a></h2>
 
             <div class="thumb">
-            <a href="https://www.nytimes.com/2017/11/22/science/youth-cells-aging-worms.html"><img src="https://static01.nyt.com/images/2017/11/28/science/28SCI-ZIMMER/28SCI-ZIMMER-thumbStandard.jpg" alt=""></a>
+            <a href="https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html"><img src="https://static01.nyt.com/images/2017/11/26/business/26ViewArt/26ViewArt-thumbStandard.jpg" alt=""></a>
         </div>
     
-            <p class="byline">By CARL ZIMMER </p>
+            <p class="byline">By SUSAN DYNARSKI </p>
     
     <p class="summary">
-        With every birth, cells begin anew. Scientists have found a biological mechanism underpinning the process in worms, which one day may be harnessed to restore our own damaged cells.    </p>
+        A growing body of evidence shows that college students generally learn less when they use computers or tablets during lectures. That is probably true in workplace meetings, too.    </p>
 
     
     </article>
@@ -1947,21 +1981,24 @@ h2.gg-promo-heading{
 
 <div class="nythpNYRegionPromo nygeo-promo-region region"><div>
 
-    <article class="story theme-summary" id="topnews-100000005568701" data-story-id="100000005568701" data-rank="1" data-collection-renderstyle="HpSumMediumMediaFloated" data-start-time="" data-end-time="">
+    <article class="story theme-summary" id="topnews-100000005567159" data-story-id="100000005567159" data-rank="1" data-collection-renderstyle="HpSumMediumMediaFloated" data-start-time="" data-end-time="">
         
-                <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/nyregion/thanksgiving-hamilton-heights-fire.html">Burned Out of Their Homes, They Shared Thanksgiving</a></h2>
+                <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/nyregion/rare-alford-plea-wrongful-conviction-rape-connecticut.html">After 28 Years, Guilty Plea Sets a Connecticut Man Free</a></h2>
 
                     <figure class="media photo medium-thumb">
     <div class="image">
-        <a href="https://www.nytimes.com/2017/11/23/nyregion/thanksgiving-hamilton-heights-fire.html"><img src="https://static01.nyt.com/images/2017/11/24/nyregion/24fire1/24fire1-mediumFlexible177.jpg" alt="" /></a>
+        <a href="https://www.nytimes.com/2017/11/23/nyregion/rare-alford-plea-wrongful-conviction-rape-connecticut.html"><img src="https://static01.nyt.com/images/2017/11/24/nyregion/24ALFORD1/merlin_130415363_c483bf88-6c9d-4aca-83da-99258562c195-mediumFlexible177.jpg" alt="" /></a>
     </div>
 </figure>
         
-                    <p class="byline">By LUIS FERRÉ-SADURNÍ </p>
+                    <p class="byline">By ALAN FEUER </p>
         
         <p class="summary">
-            Dozens of families whose apartments were severely damaged by a fire in Hamilton Heights joined together for an early holiday dinner.        </p>
+            Leroy Harris’s 1989 conviction was flawed, prosecutors admit, but they agreed to let him go if he entered a rare Alford plea, pleading guilty to lesser charges without admitting guilt.        </p>
 
+                    <p class="theme-comments">
+    <a href="https://www.nytimes.com/2017/11/23/nyregion/rare-alford-plea-wrongful-conviction-rape-connecticut.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
+</p>
         
             </article>
 </div></div></div>
@@ -2203,48 +2240,45 @@ require(['foundation/main'], function() {
 <h2 class="section-heading">
 </h2>
 <div class="column">
-    <article class="story theme-summary " id="topnews-100000005567010" data-story-id="100000005567010" data-rank="0" data-collection-renderstyle="HPMediumMediaHedSumDaypart">
-                <a href="https://www.nytimes.com/2017/11/23/business/junk-milken-akhtar.html">
+    <article class="story theme-summary " id="topnews-100000005567002" data-story-id="100000005567002" data-rank="0" data-collection-renderstyle="HPMediumMediaHedSumDaypart">
+                <a href="https://www.nytimes.com/2017/11/24/arts/charlie-rose-kevin-spacey-louis-ck-art.html">
                         <div class="wide-thumb">
-                    <img src="https://static01.nyt.com/images/2017/11/24/business/24STEWART1/24STEWART1-mediumThreeByTwo210.jpg" />
+                    <img src="https://static01.nyt.com/images/2017/11/28/arts/27erased-art1/27erased-art1-mediumThreeByTwo210.jpg" />
                                     </div>
                  </a>
         <h2 class="story-heading">
-            <a href="https://www.nytimes.com/2017/11/23/business/junk-milken-akhtar.html">‘Junk’ Mines Milken Era for Truths That Persist</a>
+            <a href="https://www.nytimes.com/2017/11/24/arts/charlie-rose-kevin-spacey-louis-ck-art.html">What to Do With a Rebuked Artist’s Art?</a>
         </h2>
         <p class="summary">
-            Ayad Akhtar’s play portrays the financial excesses of the 1980s in ways that evoke unsettling new thoughts.        </p>
+            Shows and films caught up in harassment scandals have become radioactive, and the culture is wrestling with where to draw the line.        </p>
     </article>
 </div>
 <div class="column">
-    <article class="story theme-summary " id="topnews-100000005563537" data-story-id="100000005563537" data-rank="1" data-collection-renderstyle="HPMediumMediaHedSumDaypart">
-                <a href="https://www.nytimes.com/interactive/2017/11/23/travel/what-to-do-36-hours-in-asuncion-paraguay.html">
+    <article class="story theme-summary " id="topnews-100000005495226" data-story-id="100000005495226" data-rank="1" data-collection-renderstyle="HPMediumMediaHedSumDaypart">
+                <a href="https://www.nytimes.com/2017/11/24/realestate/when-the-weekend-house-becomes-a-full-time-home.html">
                         <div class="wide-thumb">
-                    <img src="https://static01.nyt.com/images/2017/12/03/travel/03HOURS-ASUNCION2-LISTY/03HOURS-ASUNCION2-mediumThreeByTwo210.jpg" />
-                                            <div class="media-action-overlay">
-                            <i class="icon sprite-icon icon-media-interactive-16x16-ffffff"></i>
-                        </div>
+                    <img src="https://static01.nyt.com/images/2017/11/26/realestate/26NORTHFORK-slide-L5SY/26NORTHFORK-slide-L5SY-mediumThreeByTwo210.jpg" />
                                     </div>
                  </a>
         <h2 class="story-heading">
-            <a href="https://www.nytimes.com/interactive/2017/11/23/travel/what-to-do-36-hours-in-asuncion-paraguay.html">36 Hours in Asunción, Paraguay</a>
+            <a href="https://www.nytimes.com/2017/11/24/realestate/when-the-weekend-house-becomes-a-full-time-home.html">When the Weekend House Becomes Home</a>
         </h2>
         <p class="summary">
-            Whether you seek retro restaurants, innovative galleries or American-style brunches, you’ll find it here.        </p>
+            On the North Fork of Long Island, some second homeowners are moving in permanently and finding creative ways to commute — or not commute.        </p>
     </article>
 </div>
 <div class="column">
-    <article class="story theme-summary " id="topnews-100000005556591" data-story-id="100000005556591" data-rank="2" data-collection-renderstyle="HPMediumMediaHedSumDaypart">
-                <a href="https://www.nytimes.com/2017/11/22/arts/television/shes-gotta-have-it-netflix-tv-review.html">
+    <article class="story theme-summary " id="topnews-100000005542470" data-story-id="100000005542470" data-rank="2" data-collection-renderstyle="HPMediumMediaHedSumDaypart">
+                <a href="https://www.nytimes.com/2017/11/22/sports/protestants-and-catholics-meet-on-the-cricket-pitch.html">
                         <div class="wide-thumb">
-                    <img src="https://static01.nyt.com/images/2017/11/22/arts/23gotta/23gotta-mediumThreeByTwo210.jpg" />
+                    <img src="https://static01.nyt.com/images/2017/11/25/sports/25cricket-unity1/merlin_130130327_1b7a9566-2de4-41cf-a918-227a6ec532e6-mediumThreeByTwo210.jpg" />
                                     </div>
                  </a>
         <h2 class="story-heading">
-            <a href="https://www.nytimes.com/2017/11/22/arts/television/shes-gotta-have-it-netflix-tv-review.html">‘She’s Gotta Have It’ Is a Reboot for Spike Lee</a>
+            <a href="https://www.nytimes.com/2017/11/22/sports/protestants-and-catholics-meet-on-the-cricket-pitch.html">Protestants and Catholics Meet for Cricket</a>
         </h2>
         <p class="summary">
-            Mr. Lee has remade his breakthrough film as a streaming series on Netflix, and this time Nola Darling’s work is as important as her love life.        </p>
+            This year, Rome hosted a cricket match between the Anglican and Catholic churches. Unlike ancient blood sports, this match fostered unity.        </p>
     </article>
 </div>
 </div>
@@ -2280,13 +2314,13 @@ require(['foundation/main'], function() {
                                             <div class="collection">
             <article class="story theme-summary" id="topnews-100000005564393" data-story-id="100000005564393" data-rank="0" data-collection-renderstyle="HpSumXSMedia">
     
-            <h3 class="kicker">Editorial </h3>
         <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/opinion/america-war-casualties-soldiers.html">Telling the Truth About the Cost of War</a></h2>
 
             <div class="small-thumb">
             <a href="https://www.nytimes.com/2017/11/23/opinion/america-war-casualties-soldiers.html"><img src="https://static01.nyt.com/images/2017/11/24/opinion/24fri1/24fri1-blogSmallThumb.jpg" alt=""></a>
         </div>
     
+            <p class="byline">By THE EDITORIAL BOARD </p>
     
     <p class="summary">
         As civilian casualties appear to rise, the American military is not acknowledging the extent of the problem.    </p>
@@ -2301,18 +2335,18 @@ require(['foundation/main'], function() {
                                             <div class="collection headlines">
             <ul class="theme-news-headlines">
                     <li>
-            <article class="story" id="topnews-100000005567769" data-story-id="100000005567769" data-rank="0" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/thanksgiving-trump-resistance.html">Blow: Thankfully Recommitting to Resistance</a> </h2>
+            <article class="story" id="topnews-100000005567058" data-story-id="100000005567058" data-rank="0" data-collection-renderstyle="HpHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/america-the-redeemer-nation.html">Brooks: The Redeemer Nation</a> </h2>
 </article>
             </li>
                     <li>
-            <article class="story" id="topnews-100000005567058" data-story-id="100000005567058" data-rank="1" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/america-the-redeemer-nation.html">America: The Redeemer Nation</a> </h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005565469" data-story-id="100000005565469" data-rank="2" data-collection-renderstyle="HpHeadline">
+            <article class="story" id="topnews-100000005565469" data-story-id="100000005565469" data-rank="1" data-collection-renderstyle="HpHeadline">
         <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/sunday/my-brother-kevins-not-tired-of-winning.html">Dowd: My Brother Kevin’s Not Tired of Winning</a> </h2>
+</article>
+            </li>
+                    <li>
+            <article class="story" id="topnews-100000005567503" data-story-id="100000005567503" data-rank="2" data-collection-renderstyle="HpHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/24/opinion/thanksgiving-trump-party-divisions.html">Egan: Bridging the Canyon Across the Holiday Table</a> <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="5:45 AM" data-utc-timestamp="1511520321">5:45 AM ET</time></h2>
 </article>
             </li>
                     <li>
@@ -2321,13 +2355,13 @@ require(['foundation/main'], function() {
 </article>
             </li>
                     <li>
-            <article class="story" id="topnews-100000005567345" data-story-id="100000005567345" data-rank="4" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/thanksgiving-fathers-harassment-masculinity.html">Stephens: Thanksgiving Gratitude for a Father’s Lesson</a> </h2>
+            <article class="story" id="topnews-100000005526816" data-story-id="100000005526816" data-rank="4" data-collection-renderstyle="HpHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/immigration-visa-h1b-trump-.html">Is Anyone Good Enough for an H-1B Visa?</a> </h2>
 </article>
             </li>
                     <li>
-            <article class="story" id="topnews-100000004606777" data-story-id="100000004606777" data-rank="5" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://twitter.com/nytopinion">Follow us on Twitter »</a> </h2>
+            <article class="story" id="topnews-100000005568152" data-story-id="100000005568152" data-rank="5" data-collection-renderstyle="HpHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/24/opinion/pakistan-general-musharraf-comeback.html">The Pakistani General Who Wouldn’t Go Away</a> <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="6:00 AM" data-utc-timestamp="1511521213">6:00 AM ET</time></h2>
 </article>
             </li>
             </ul>
@@ -2338,28 +2372,43 @@ require(['foundation/main'], function() {
                 <div class="column">
                     <div class="region opinion-c-col-right-region">
                                             <div class="collection">
-                <article class="story theme-summary" id="topnews-100000005567059" data-story-id="100000005567059" data-rank="0" data-collection-renderstyle="HpSumMediumMediaHigh" data-start-time="" data-end-time="">
-        
-                    <figure class="media photo medium-thumb">
-    <div class="image">
-        <a href="https://www.nytimes.com/2017/11/23/opinion/saudi-prince-mbs-arab-spring.html"><img src="https://static01.nyt.com/images/2017/11/24/opinion/24friedman/24friedman-mediumFlexible177.jpg" alt="" /></a>
-    </div>
-</figure>
-        
-        
+            <article class="story theme-summary" id="topnews-100000005567059" data-story-id="100000005567059" data-rank="0" data-collection-renderstyle="HpSumXSMedia">
+    
         <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/23/opinion/saudi-prince-mbs-arab-spring.html">Saudi Arabia’s Arab Spring, at Last</a></h2>
 
-                    <p class="byline">By THOMAS L. FRIEDMAN </p>
-        
-        <p class="summary">
-            The crown prince has big plans to bring back a level of tolerance to his society.        </p>
+            <div class="small-thumb">
+            <a href="https://www.nytimes.com/2017/11/23/opinion/saudi-prince-mbs-arab-spring.html"><img src="https://static01.nyt.com/images/2017/11/24/opinion/24friedman/24friedman-blogSmallThumb.jpg" alt=""></a>
+        </div>
+    
+            <p class="byline">By THOMAS L. FRIEDMAN </p>
+    
+    <p class="summary">
+        The crown prince has big plans to bring back a level of tolerance to his society.    </p>
 
-                    <p class="theme-comments">
+            <p class="theme-comments">
     <a href="https://www.nytimes.com/2017/11/23/opinion/saudi-prince-mbs-arab-spring.html?hp&amp;target=comments#commentsContainer" class="comments-link"><i class="icon sprite-icon comments-icon"></i><span class="comment-count">&nbsp;Comments</span></a>
 </p>
-        
-        
+    
     </article>
+
+</div>
+<div class="collection">
+            <article class="story theme-summary" id="topnews-100000005567028" data-story-id="100000005567028" data-rank="0" data-collection-renderstyle="HpSumXSMedia">
+    
+        <h2 class="story-heading"><a href="https://www.nytimes.com/2017/11/24/opinion/germany-third-gender-intersexual-ruling.html">Germany Embraces a Third Gender. What’s Next?</a></h2>
+
+            <div class="small-thumb">
+            <a href="https://www.nytimes.com/2017/11/24/opinion/germany-third-gender-intersexual-ruling.html"><img src="https://static01.nyt.com/images/2017/11/25/world/25Bittner-inyt/25Bittner-inyt-blogSmallThumb.jpg" alt=""></a>
+        </div>
+    
+            <p class="byline">By JOCHEN BITTNER <time class="timestamp" datetime="2017-11-24" data-eastern-timestamp="5:55 AM" data-utc-timestamp="1511520919">5:55 AM ET</time></p>
+    
+    <p class="summary">
+        The country has taken a big step forward, but its politicized gender wars could lead to a backlash.    </p>
+
+    
+    </article>
+
 </div>
                                             <div class="collection headlines">
             <ul class="theme-news-headlines">
@@ -2369,18 +2418,8 @@ require(['foundation/main'], function() {
 </article>
             </li>
                     <li>
-            <article class="story" id="topnews-100000005526816" data-story-id="100000005526816" data-rank="1" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/immigration-visa-h1b-trump-.html">Is Anyone Good Enough for an H1-B Visa?</a> </h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005563566" data-story-id="100000005563566" data-rank="2" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/23/opinion/why-wont-israel-let-me-mourn-my-father.html">Why Won’t Israel Let Me Mourn My Father?</a> </h2>
-</article>
-            </li>
-                    <li>
-            <article class="story" id="topnews-100000005564442" data-story-id="100000005564442" data-rank="3" data-collection-renderstyle="HpHeadline">
-        <h2 class="story-heading"><i class="icon"></i><a href="https://www.nytimes.com/2017/11/22/opinion/liberals-al-franken.html">Letters: For Some Liberals, the Al Franken Dilemma</a> </h2>
+            <article class="story" id="topnews-100000004606777" data-story-id="100000004606777" data-rank="1" data-collection-renderstyle="HpHeadline">
+        <h2 class="story-heading"><i class="icon"></i><a href="https://twitter.com/nytopinion">Follow us on Twitter »</a> </h2>
 </article>
             </li>
             </ul>
@@ -2422,14 +2461,14 @@ require(['foundation/main'], function() {
                               <li>
               <article class="story">
                 <h2 class="story-heading">
-                  <a href="https://www.nytimes.com/interactive/2017/11/23/insider/23foreignthanksgivings.html">The Most American Holiday, in the Most Far-Flung Places</a>
+                  <a href="https://www.nytimes.com/2017/11/24/us/insider-vallejo-diverse.html">‘Nothing Against You’: For a Black Man Covering Race, the Story Is Never Far From Home</a>
                 </h2>
               </article>
             </li>
                       <li>
               <article class="story">
                 <h2 class="story-heading">
-                  <a href="https://www.nytimes.com/2017/11/22/insider/thanksgiving-prep-times-cooking.html">Where Thanksgiving Is Three Weeks Long</a>
+                  <a href="https://www.nytimes.com/interactive/2017/11/23/insider/23foreignthanksgivings.html">The Most American Holiday, in the Most Far-Flung Places</a>
                 </h2>
               </article>
             </li>
@@ -2454,7 +2493,7 @@ require(['foundation/main'], function() {
                 <a href="https://www.nytimes.com/section/insider">Times Insider &raquo;</a>
               </h3>
                               <h2 class="story-heading">
-                  <a href="https://www.nytimes.com/interactive/2017/11/23/insider/23foreignthanksgivings.html">The Most American Holiday, in the Most Far-Flung Places</a>
+                  <a href="https://www.nytimes.com/2017/11/24/us/insider-vallejo-diverse.html">‘Nothing Against You’: For a Black Man Covering Race, the Story Is Never Far From Home</a>
                 </h2>
                           </article>
           </div>
@@ -2710,14 +2749,14 @@ text-decoration: none;
                 <ol class="menu layout-horizontal theme-story">
                     <li>
         <section>
-        <h2 class="section-heading"><a href="https://www.nytimes.com/section/fashion">Style</a></h2>
+        <h2 class="section-heading"><a href="https://www.nytimes.com/section/movies">Movies</a></h2>
 
-    <article class="story theme-summary" data-story-id="100000005566869" data-rank="0" data-collection-renderstyle="Moth">
-        <a class="story-link" href="https://www.nytimes.com/2017/11/22/style/thanksgiving-couch-potato-fashion.html">
+    <article class="story theme-summary" data-story-id="100000005550685" data-rank="0" data-collection-renderstyle="Moth">
+        <a class="story-link" href="https://www.nytimes.com/2017/11/23/movies/bombshell-the-hedy-lamarr-story-review-.html">
             <div class="wide-thumb">
-                <img src="https://static01.nyt.com/images/2017/11/23/fashion/23BROWSE-3/23BROWSE-3-mediumSquare149.jpg" alt="">
+                <img src="https://static01.nyt.com/images/2017/11/24/arts/24BOMBSHELL/24BOMBSHELL-mediumSquare149.jpg" alt="">
             </div>
-            <h2 class="story-heading">Wintertime Luxuries for the Seasoned Lounger</h2>
+            <h2 class="story-heading">‘Bombshell’ Tells the Story of Hedy Lamarr</h2>
         </a>
     </article>
 
@@ -2740,14 +2779,14 @@ text-decoration: none;
     </li>
     <li>
         <section>
-        <h2 class="section-heading"><a href="https://www.nytimes.com/section/science">Science</a></h2>
+        <h2 class="section-heading"><a href="https://www.nytimes.com/section/well/eat">Eat</a></h2>
 
-    <article class="story theme-summary" data-story-id="100000005566513" data-rank="2" data-collection-renderstyle="Moth">
-        <a class="story-link" href="https://www.nytimes.com/2017/11/22/science/whales-rocks-exfoliating.html">
+    <article class="story theme-summary" data-story-id="100000005552472" data-rank="2" data-collection-renderstyle="Moth">
+        <a class="story-link" href="https://www.nytimes.com/2017/11/20/well/eat/salt-diet-nutrition-sodium-blood-pressure-hypertension-heart-health.html">
             <div class="wide-thumb">
-                <img src="https://static01.nyt.com/images/2017/11/23/science/23TB-WHALES-promo/23TB-WHALES-promo-mediumSquare149.jpg" alt="">
+                <img src="https://static01.nyt.com/images/2017/11/21/science/21BRODY/21BRODY-mediumSquare149.jpg" alt="">
             </div>
-            <h2 class="story-heading">Even Whales Have to Exfoliate</h2>
+            <h2 class="story-heading">Clearing Up the Confusion About Salt</h2>
         </a>
     </article>
 
@@ -2783,14 +2822,14 @@ text-decoration: none;
     </li>
     <li>
         <section>
-        <h2 class="section-heading"><a href="https://www.nytimes.com/section/books">Books</a></h2>
+        <h2 class="section-heading"><a href="https://www.nytimes.com/section/science">Science</a></h2>
 
-    <article class="story theme-summary" data-story-id="100000005564641" data-rank="5" data-collection-renderstyle="Moth">
-        <a class="story-link" href="https://www.nytimes.com/2017/11/22/books/review-water-will-come-jeff-goodell.html">
+    <article class="story theme-summary" data-story-id="100000005566502" data-rank="5" data-collection-renderstyle="Moth">
+        <a class="story-link" href="https://www.nytimes.com/2017/11/22/science/coral-reefs-3d-photomosaics.html">
             <div class="wide-thumb">
-                <img src="https://static01.nyt.com/images/2017/11/23/arts/23bookgoodell1/23bookgoodell1-mediumSquare149.jpg" alt="">
+                <img src="https://static01.nyt.com/images/2017/11/22/science/23TB-CORAL3/23TB-CORAL3-mediumSquare149.jpg" alt="">
             </div>
-            <h2 class="story-heading">Not if the Seas Rise, but When</h2>
+            <h2 class="story-heading">Improving Our Views of Coral Reefs</h2>
         </a>
     </article>
 
@@ -2799,14 +2838,14 @@ text-decoration: none;
 
     <li>
         <section>
-        <h2 class="section-heading"><a href="https://www.nytimes.com/section/nyregion">N.Y. / Region</a></h2>
+        <h2 class="section-heading"><a href="https://www.nytimes.com/section/books">Books</a></h2>
 
-    <article class="story theme-summary" data-story-id="100000005549536" data-rank="0" data-collection-renderstyle="Moth">
-        <a class="story-link" href="https://www.nytimes.com/2017/11/23/nyregion/a-holiday-gift-guide-for-hardcover-fans.html">
+    <article class="story theme-summary" data-story-id="100000005364063" data-rank="0" data-collection-renderstyle="Moth">
+        <a class="story-link" href="https://www.nytimes.com/2017/11/23/books/fiction-nigeria-writers.html">
             <div class="wide-thumb">
-                <img src="https://static01.nyt.com/images/2017/11/26/nyregion/26bookshelf1/26bookshelf1-mediumSquare149.jpg" alt="">
+                <img src="https://static01.nyt.com/images/2017/11/24/books/review/24nigerianfiction1/24nigerianfiction1-mediumSquare149.jpg" alt="">
             </div>
-            <h2 class="story-heading">A Gift Guide for New Yorkers Who Love Books</h2>
+            <h2 class="story-heading">A Wave of New Fiction From Nigeria</h2>
         </a>
     </article>
 
@@ -2844,14 +2883,14 @@ text-decoration: none;
     </li>
     <li>
         <section>
-        <h2 class="section-heading"><a href="https://www.nytimes.com/section/movies">Movies</a></h2>
+        <h2 class="section-heading"><a href="https://www.nytimes.com/section/arts/dance">Dance</a></h2>
 
-    <article class="story theme-summary" data-story-id="100000005550685" data-rank="3" data-collection-renderstyle="Moth">
-        <a class="story-link" href="https://www.nytimes.com/2017/11/23/movies/bombshell-the-hedy-lamarr-story-review-.html">
+    <article class="story theme-summary" data-story-id="100000005546823" data-rank="3" data-collection-renderstyle="Moth">
+        <a class="story-link" href="https://www.nytimes.com/2017/11/23/arts/dance/nutcracker-young-dancers-new-york-city-ballet.html">
             <div class="wide-thumb">
-                <img src="https://static01.nyt.com/images/2017/11/24/arts/24BOMBSHELL/24BOMBSHELL-mediumSquare149.jpg" alt="">
+                <img src="https://static01.nyt.com/images/2017/11/26/arts/26TWOMARIES8/26TWOMARIES8-mediumSquare149.jpg" alt="">
             </div>
-            <h2 class="story-heading">‘Bombshell’ Tells the Story of Hedy Lamarr</h2>
+            <h2 class="story-heading">Living the ‘Nutcracker’ Dream</h2>
         </a>
     </article>
 
@@ -2916,16 +2955,16 @@ text-decoration: none;
     </h2>
     <ul>
                     <li>
-            <article class="story theme-summary" data-story-id="100000005562293" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story theme-summary" data-story-id="100000005568668" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
 
-    <a class="story-link" href="https://www.nytimes.com/2017/11/23/world/europe/russia-vladimir-putin-liberals.html">
+    <a class="story-link" href="https://www.nytimes.com/2017/11/23/world/europe/serbia-war-crimes-russia.html">
 
                     <div class="thumb">
-                <img src="https://static01.nyt.com/images/2017/11/22/world/xxrussialiberals1/xxrussialiberals1-thumbStandard.jpg" alt="" />
+                <img src="https://static01.nyt.com/images/2017/11/24/world/24serbia/24serbia-thumbStandard.jpg" alt="" />
             </div>
         
         <h3 class="story-heading">
-        Why Putin’s Foes Deplore U.S. Fixation on Election Meddling        </h3>
+        Serbia’s Brand of Reconciliation: Embracing Old War Criminals        </h3>
     </a>
 </article>
             </li>
@@ -2938,10 +2977,10 @@ text-decoration: none;
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005567321" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005569488" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/world/europe/russia-radiation-cloud.html">
-            A Radiation Cloud, and a Mystery, From Russia        </a>
+        <a href="https://www.nytimes.com/2017/11/24/world/africa/emmerson-mnangagwa-zimbabwe.html">
+            Emmerson Mnangagwa Is Sworn In as Zimbabwe’s 2nd President Since 1980        </a>
     </h2>
 </article>
             </li>
@@ -2959,32 +2998,32 @@ text-decoration: none;
     </h2>
     <ul>
                     <li>
-            <article class="story theme-summary" data-story-id="100000005559317" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story theme-summary" data-story-id="100000005564615" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
 
-    <a class="story-link" href="https://www.nytimes.com/2017/11/23/business/economy/texas-border-bridges.html">
+    <a class="story-link" href="https://www.nytimes.com/2017/11/24/business/media/tobacco-companies-ads.html">
 
                     <div class="thumb">
-                <img src="https://static01.nyt.com/images/2017/11/23/business/00BRIDGES-2/00BRIDGES-2-thumbStandard-v2.jpg" alt="" />
+                <img src="https://static01.nyt.com/images/2017/11/25/business/25TOBACCOADS1/25TOBACCOADS1-thumbStandard-v3.jpg" alt="" />
             </div>
         
         <h3 class="story-heading">
-        Nafta Talks Have High Stakes for Two Texas Bridge Owners        </h3>
+        Why Tobacco Companies Are Paying to Tell You Smoking Kills        </h3>
     </a>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005556674" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005559317" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/technology/mark-zuckerberg-housing.html">
-            Facebook Founder’s Favor Comes With Complications        </a>
+        <a href="https://www.nytimes.com/2017/11/23/business/economy/texas-border-bridges.html">
+            Nafta Talks Have High Stakes for Two Texas Bridge Owners        </a>
     </h2>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005562687" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005556674" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/business/black-friday-thanksgiving-shopping.html">
-            Black Friday 2017: Your Best Bargain Bet Might Be a TV        </a>
+        <a href="https://www.nytimes.com/2017/11/23/technology/mark-zuckerberg-housing.html">
+            Facebook Founder’s Favor Comes With Complications        </a>
     </h2>
 </article>
             </li>
@@ -3016,18 +3055,18 @@ text-decoration: none;
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005526816" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005564393" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/opinion/immigration-visa-h1b-trump-.html">
-            Op-Ed Contributor: Is Anyone Good Enough for an H1-B Visa?        </a>
+        <a href="https://www.nytimes.com/2017/11/23/opinion/america-war-casualties-soldiers.html">
+            Editorial: Telling the Truth About the Cost of War        </a>
     </h2>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005564670" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005567733" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/opinion/sunday/the-horses-on-standing-rock-get-a-checkup.html">
-            Opinion: The Horses on Standing Rock Get a Checkup        </a>
+        <a href="https://www.nytimes.com/2017/11/23/opinion/thanksgiving-america-changing.html">
+            Paul Krugman: On Feeling Thankful but Fearful        </a>
     </h2>
 </article>
             </li>
@@ -3065,18 +3104,18 @@ text-decoration: none;
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005555078" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005548832" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/16/us/billy-the-kid-photo.html">
-            A Photo of Billy the Kid Bought for $10 at a Flea Market May Be Worth Millions        </a>
+        <a href="https://www.nytimes.com/2017/11/24/us/does-race-matter-in-americas-most-diverse-zip-codes.html">
+            Does Race Matter in America’s Most Diverse ZIP Codes?        </a>
     </h2>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005566659" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005559566" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/us/thanksgiving-for-native-americans-four-voices-on-a-complicated-holiday.html">
-            Thanksgiving for Native Americans: Four Voices on a Complicated Holiday        </a>
+        <a href="https://www.nytimes.com/2017/11/24/us/insider-vallejo-diverse.html">
+            ‘Nothing Against You’: For a Black Man Covering Race, the Story Is Never Far From Home        </a>
     </h2>
 </article>
             </li>
@@ -3186,32 +3225,32 @@ text-decoration: none;
     </h2>
     <ul>
                     <li>
-            <article class="story theme-summary" data-story-id="100000005568872" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story theme-summary" data-story-id="100000005559783" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
 
-    <a class="story-link" href="https://www.nytimes.com/2017/11/23/us/politics/trump-mar-a-lago-thanksgiving.html">
+    <a class="story-link" href="https://www.nytimes.com/2017/11/24/us/politics/democratic-party.html">
 
                     <div class="thumb">
-                <img src="https://static01.nyt.com/images/2017/11/24/us/24dc-thanksgiving/24dc-thanksgiving-thumbStandard.jpg" alt="" />
+                <img src="https://static01.nyt.com/images/2017/11/19/us/politics/19dc-demvoices-promo/19dc-demvoices-promo-thumbStandard.jpg" alt="" />
             </div>
         
         <h3 class="story-heading">
-        A Mar-a-Lago Thanksgiving: It’s All Gravy        </h3>
+        Six Democrats From Outside Washington Have a Message for Their Party        </h3>
     </a>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005565520" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005568872" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/us/politics/corporate-tax-cut-pay.html">
-            Will a Corporate Tax Cut Lift Worker Pay? A Union Wants It in Writing.        </a>
+        <a href="https://www.nytimes.com/2017/11/23/us/politics/trump-mar-a-lago-thanksgiving.html">
+            A Mar-a-Lago Thanksgiving: It’s All Gravy        </a>
     </h2>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005568931" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005565520" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/23/us/politics/flynn-mueller-russia-trump.html">
-            A Split From Trump Indicates That Flynn Is Moving to Cooperate With Mueller        </a>
+        <a href="https://www.nytimes.com/2017/11/23/us/politics/corporate-tax-cut-pay.html">
+            Will a Corporate Tax Cut Lift Worker Pay? A Union Wants It in Writing.        </a>
     </h2>
 </article>
             </li>
@@ -3634,32 +3673,32 @@ text-decoration: none;
     </h2>
     <ul>
                     <li>
-            <article class="story theme-summary" data-story-id="100000005563537" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story theme-summary" data-story-id="100000005529149" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
 
-    <a class="story-link" href="https://www.nytimes.com/interactive/2017/11/23/travel/what-to-do-36-hours-in-asuncion-paraguay.html">
+    <a class="story-link" href="https://www.nytimes.com/2017/11/24/travel/farmers-market-tips-alain-ducasse.html">
 
                     <div class="thumb">
-                <img src="https://static01.nyt.com/images/2017/12/03/travel/03HOURS-ASUNCION2-LISTY/03HOURS-ASUNCION2-thumbStandard.jpg" alt="" />
+                <img src="https://static01.nyt.com/images/2017/12/03/travel/03MARKETTIPS/26MARKETTIPS-thumbStandard.jpg" alt="" />
             </div>
         
         <h3 class="story-heading">
-        36 Hours: 36 Hours in Asunción, Paraguay        </h3>
+        Travel Tips: How to Get the Most Out of Farmers’ Markets While Traveling        </h3>
     </a>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005567049" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005563537" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/22/travel/looking-for-the-sublime-its-in-this-swiss-valley.html">
-            Looking for the Sublime? It’s in This Swiss Valley.         </a>
+        <a href="https://www.nytimes.com/interactive/2017/11/23/travel/what-to-do-36-hours-in-asuncion-paraguay.html">
+            36 Hours: 36 Hours in Asunción, Paraguay        </a>
     </h2>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005564739" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005567049" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/21/travel/thanksgiving-travel-tips.html">
-            A Guide to (Somewhat) Painless Thanksgiving Travel        </a>
+        <a href="https://www.nytimes.com/2017/11/22/travel/looking-for-the-sublime-its-in-this-swiss-valley.html">
+            Looking for the Sublime? It’s in This Swiss Valley.         </a>
     </h2>
 </article>
             </li>
@@ -3947,32 +3986,32 @@ text-decoration: none;
     </h2>
     <ul>
                     <li>
-            <article class="story theme-summary" data-story-id="100000005560563" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story theme-summary" data-story-id="100000005559566" data-rank="0" data-collection-renderstyle="HpHedThumbWell">
 
-    <a class="story-link" href="https://www.nytimes.com/interactive/2017/11/23/insider/23foreignthanksgivings.html">
+    <a class="story-link" href="https://www.nytimes.com/2017/11/24/us/insider-vallejo-diverse.html">
 
                     <div class="thumb">
-                <img src="https://static01.nyt.com/images/2017/11/23/insider/23itt-foreign-crop/23itt-foreign-crop-thumbStandard.jpg" alt="" />
+                <img src="https://static01.nyt.com/images/2017/11/22/insider/insider-vallejo-image/insider-vallejo-image-thumbStandard.jpg" alt="" />
             </div>
         
         <h3 class="story-heading">
-        The Most American Holiday, in the Most Far-Flung Places        </h3>
+        ‘Nothing Against You’: For a Black Man Covering Race, the Story Is Never Far From Home        </h3>
     </a>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005529718" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005560563" data-rank="1" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/22/insider/thanksgiving-prep-times-cooking.html">
-            Where Thanksgiving Is Three Weeks Long        </a>
+        <a href="https://www.nytimes.com/interactive/2017/11/23/insider/23foreignthanksgivings.html">
+            The Most American Holiday, in the Most Far-Flung Places        </a>
     </h2>
 </article>
             </li>
                     <li>
-            <article class="story" data-story-id="100000005558685" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
+            <article class="story" data-story-id="100000005529718" data-rank="2" data-collection-renderstyle="HpHedThumbWell">
     <h2 class="story-heading">
-        <a href="https://www.nytimes.com/2017/11/21/insider/what-were-reading.html">
-            What We’re Reading        </a>
+        <a href="https://www.nytimes.com/2017/11/22/insider/thanksgiving-prep-times-cooking.html">
+            Where Thanksgiving Is Three Weeks Long        </a>
     </h2>
 </article>
             </li>
